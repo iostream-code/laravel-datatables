@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Step-by-Step Tutorial: Implementing Yajra Datatables in Laravel 10 - CodeAndDeploy.com</title>
+    <title>Implementing Yajra Datatables in Laravel 10</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.11.4/css/dataTables.bootstrap5.min.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 <body>
 
     <div class="container">
-        <h1>Step-by-Step Tutorial: Implementing Yajra Datatables in Laravel 10 - CodeAndDeploy.com</h1>
+        <h1>Implementing Yajra Datatables in Laravel 10</h1>
         <table class="table table-bordered data-table">
             <thead>
                 <tr>
